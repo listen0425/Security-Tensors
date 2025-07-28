@@ -1,0 +1,17 @@
+{
+  "auto_mapping": null,
+  "base_model_name_or_path": "lmsys/vicuna-7b-v1.5",
+  "inference_mode": true,
+  "num_attention_heads": 32,
+  "num_layers": 32,
+  "num_transformer_submodules": 1,
+  "num_virtual_tokens": 100,
+  "peft_type": "PROMPT_TUNING",
+  "prompt_tuning_init": "RANDOM",
+  "prompt_tuning_init_text": null,
+  "revision": null,
+  "task_type": "CAUSAL_LM",
+  "token_dim": 4096,
+  "tokenizer_kwargs": null,
+  "tokenizer_name_or_path": "llava-hf/llava-1___5-7b-hf"
+}

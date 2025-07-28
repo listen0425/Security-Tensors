@@ -1,0 +1,1002 @@
+[
+    {
+        "pic_path": "train2017/000000144419.jpg",
+        "input": "What is the setting where the skateboarder is performing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000507237.jpg",
+        "input": "What is the color of the horse in the scene?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000509914.jpg",
+        "input": "What is the color tone of the photograph?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000456678.jpg",
+        "input": "What is the overall atmosphere or style of the setting depicted in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000008095.jpg",
+        "input": "What general setting is depicted in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000407795.jpg",
+        "input": "Can you see any spectators in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000356641.jpg",
+        "input": "What type of landscape do the horses appear to be in?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000312435.jpg",
+        "input": "What could be a possible purpose of this room?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000424111.jpg",
+        "input": "What could be the main advantages and disadvantages of having an open-concept living space?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000025552.jpg",
+        "input": "Is there any indication of the man's profession from what he's wearing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000337262.jpg",
+        "input": "Why might the skateboarder and bicyclists be together and sharing the same street?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000574755.jpg",
+        "input": "What aspects contribute to the atmosphere of this event?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000041754.jpg",
+        "input": "What is the dog doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000023919.jpg",
+        "input": "Does the image provide a close-up view of the person flying the kite?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000466807.jpg",
+        "input": "What food item is the person cutting in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000414422.jpg",
+        "input": "What could be the potential risks or precautions to consider while engaging in the activity depicted in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000308963.jpg",
+        "input": "What are the three main individuals visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000082313.jpg",
+        "input": "What might be the motivation behind having such an umbrella?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000357602.jpg",
+        "input": "What is the main subject of the image, besides the tree?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000225669.jpg",
+        "input": "Why might the man be leading the two horses down the hill instead of riding them?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000483851.jpg",
+        "input": "What factors contribute to the man's dining experience?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000424536.jpg",
+        "input": "How many people are visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000572859.jpg",
+        "input": "What is the main subject of the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000530285.jpg",
+        "input": "What interactions might the people visiting this area have?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000113844.jpg",
+        "input": "What could be a possible reason for having multiple smartphones on this table?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000197854.jpg",
+        "input": "Where are the snowboarders standing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000133874.jpg",
+        "input": "Is the bear near any objects or landmarks in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000213103.jpg",
+        "input": "Is the scenery depicted in the image urban or rural?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000136977.jpg",
+        "input": "Are there any other street signs visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000553000.jpg",
+        "input": "What type of container is holding the red flower?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000334474.jpg",
+        "input": "How many men are in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000041456.jpg",
+        "input": "What might be the reason for the popularity of bikes and scooters in this location?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000333225.jpg",
+        "input": "What is a possible reason for the combination of these ingredients in a dish?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000074007.jpg",
+        "input": "What might be the purpose of the elephant ride for these people?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000526797.jpg",
+        "input": "What type of transportation is visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000405288.jpg",
+        "input": "What type of bench is located near the water in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000089629.jpg",
+        "input": "What could be a reason for the young man's embarrassment?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000251264.jpg",
+        "input": "What benefits could this train bring to the area?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000130065.jpg",
+        "input": "What are the dogs doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000536587.jpg",
+        "input": "How many mirrors can be seen in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000298008.jpg",
+        "input": "How many people are riding on the motorcycle?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000350358.jpg",
+        "input": "What are the two young men doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000479591.jpg",
+        "input": "What is the color of the traffic light in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000038999.jpg",
+        "input": "What considerations should be made for guests attending this event with such a variety of food available?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000336040.jpg",
+        "input": "What unique characteristic do the fire hydrants in this image have?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000507990.jpg",
+        "input": "What benefits do the wooden structures provide to beach visitors?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000058601.jpg",
+        "input": "How many people can be seen on the tennis court?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000415918.jpg",
+        "input": "What is the setting of the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000419700.jpg",
+        "input": "What is a possible reason for the young man to grab ketchup from the fridge?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000265253.jpg",
+        "input": "What type of atmosphere can be inferred from the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000024290.jpg",
+        "input": "How many elephants are in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000262414.jpg",
+        "input": "What is the person doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000266083.jpg",
+        "input": "What is the cat doing beside the car tire?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000092868.jpg",
+        "input": "What safety considerations should one keep in mind when encountering a bear in such a setting?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000554032.jpg",
+        "input": "Why might the dog be panting and resting on the grass with the frisbee between its paws?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000165555.jpg",
+        "input": "Is there a fireplace in the living room of the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000119458.jpg",
+        "input": "Is the skater holding his skateboard or is it attached to his feet?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000457257.jpg",
+        "input": "What is the size of the surfboard the man is holding?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000435990.jpg",
+        "input": "How many people are in total in the image, both on the dock and on the boat?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000558570.jpg",
+        "input": "What might be the woman's objective in this scenario?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000207734.jpg",
+        "input": "What moment of the baseball game has been captured?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000052516.jpg",
+        "input": "What is special about the scene and what challenges might the couple face during their photo session?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000223682.jpg",
+        "input": "What is the person doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000025385.jpg",
+        "input": "What is the man's expression while talking on the phone?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000012183.jpg",
+        "input": "What could be the reason behind the large airplane being parked in such an unusual location?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000078656.jpg",
+        "input": "What emotions might this black and white image evoke?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000316542.jpg",
+        "input": "How might the clothing choices of the group of men provide information about the time period or social context of this photograph?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000198085.jpg",
+        "input": "What type of view does the image provide?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000095486.jpg",
+        "input": "What are some of the factors that can affect or improve the surfer's performance while riding the wave?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000581199.jpg",
+        "input": "How might the atmosphere be among the people in this image, and what can you infer about their social interaction?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000007143.jpg",
+        "input": "What are the potential reasons for such a scenic route taken by the airplane?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000263101.jpg",
+        "input": "Are there any people present in the image, and if so, what are they doing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000024671.jpg",
+        "input": "Why might someone place a teddy bear in this location?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000401838.jpg",
+        "input": "What types of products does the store in the image sell?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000481585.jpg",
+        "input": "What type of water body is the man surfing on?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000305885.jpg",
+        "input": "How many police officers are riding horses in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000428229.jpg",
+        "input": "Is the person wearing any protective gear?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000323334.jpg",
+        "input": "What age is the child in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000006578.jpg",
+        "input": "Why might the girl take longer to notice the cartoon character behind her?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000333946.jpg",
+        "input": "How can the skills developed through this activity benefit these children in other areas of life?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000064251.jpg",
+        "input": "What colors are the train in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000358176.jpg",
+        "input": "Are there any spectators present in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000009127.jpg",
+        "input": "How many vases are there in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000213204.jpg",
+        "input": "Why might this public transportation vehicle feature graffiti on its side?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000145249.jpg",
+        "input": "What does the image show outside the airplane's window?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000266093.jpg",
+        "input": "What animals are featured in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000566214.jpg",
+        "input": "What is the person wearing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000293385.jpg",
+        "input": "What food and drink items are on the table in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000261885.jpg",
+        "input": "What kind of physical activity can the young boy experience while playing this video game?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000412537.jpg",
+        "input": "What might be the reason for two buses traveling side by side on the street?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000542642.jpg",
+        "input": "What toppings can be seen on the slice of pizza?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000228478.jpg",
+        "input": "What type of social gathering would cater to the food arrangements and table setting in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000305338.jpg",
+        "input": "Can you describe the appearance of the cat in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000552184.jpg",
+        "input": "What skill is the girl demonstrating in this soccer game, and why is it important?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000151581.jpg",
+        "input": "Why might the dog's owner engage in this activity with their pet?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000569384.jpg",
+        "input": "Is the pizza evenly shaped, or does it appear lopsided?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000207880.jpg",
+        "input": "What can be inferred about the relationship between the adult zebra and the young zebra based on their interaction in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000326475.jpg",
+        "input": "What could be a possible reason for the sparse vegetation in this environment where the giraffes are present?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000311957.jpg",
+        "input": "Does the image show any other animals besides the brown horse?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000059550.jpg",
+        "input": "Are the street signs clearly visible or silhouetted in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000273885.jpg",
+        "input": "Are there any pets in the image? If so, what types?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000272026.jpg",
+        "input": "What could be the relationship between the three women in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000186193.jpg",
+        "input": "How does the unique adornment of one of the pottery pieces set it apart from the others?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000360217.jpg",
+        "input": "What is the man in the image doing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000296244.jpg",
+        "input": "What is the color of the cat in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000084131.jpg",
+        "input": "What type of animals are seen in the image grazing on the mountain slope?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000492236.jpg",
+        "input": "What could be a potential challenge for the people attending the party, considering the number of seats available?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000120697.jpg",
+        "input": "What factors might indicate that the man holding the baseball bat is likely participating in a match rather than just posing or practicing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000071684.jpg",
+        "input": "What benefits can one gain from consuming this type of pizza?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000520195.jpg",
+        "input": "How many people are in the image and what are they doing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000408081.jpg",
+        "input": "What safety precautions should skateboarders take when performing stunts on ramps, like the one in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000030583.jpg",
+        "input": "Is there any fence present in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000100223.jpg",
+        "input": "What features make this kitchen visually striking?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000010229.jpg",
+        "input": "What could the individuals who own the bicycles be doing when they reach their destination?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000221425.jpg",
+        "input": "What sort of board is the person riding on?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000314082.jpg",
+        "input": "What unique activity are the people participating in and why might it be beneficial for them?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000039386.jpg",
+        "input": "How does the cat's behavior in the image deviate from what is typically expected from a cat?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000445244.jpg",
+        "input": "How many people are involved in the frisbee game in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000459563.jpg",
+        "input": "What is the bird doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000456068.jpg",
+        "input": "What could be the possible reason these men are attending to the elephants in the water?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000368373.jpg",
+        "input": "What alternative use has been given to the toilet in this situation?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000581686.jpg",
+        "input": "Is there a statue in the image? If so, what does it depict?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000141414.jpg",
+        "input": "What is the arrangement of the giraffes in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000271157.jpg",
+        "input": "What safety precautions should be taken while using the knives and stove?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000333337.jpg",
+        "input": "What do you think this man could be doing professionally?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000458166.jpg",
+        "input": "Why should the cat owners be cautious in this scenario?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000574961.jpg",
+        "input": "Where is the man skateboarding?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000187563.jpg",
+        "input": "What type of buildings surround the skyscraper in the image? Are they other skyscrapers, residential homes, or a mix of both?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000228004.jpg",
+        "input": "What type of environment do brown bears typically live in and what can this image tell us about their preferred habitats?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000309454.jpg",
+        "input": "What are the people in the image wearing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000185233.jpg",
+        "input": "Is the catamaran moving or stationary in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000455169.jpg",
+        "input": "What type of donut is in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000551757.jpg",
+        "input": "What is the woman holding in her hands?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000217700.jpg",
+        "input": "What is the person wearing while preparing the pizza?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000099159.jpg",
+        "input": "How can someone prevent accidents when working with these art supplies?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000359772.jpg",
+        "input": "What color is the cat in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000223500.jpg",
+        "input": "What makes this kitchen appear unique and cheerful?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000116065.jpg",
+        "input": "Is there any pavement visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000307186.jpg",
+        "input": "Is the person skiing or snowboarding in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000515191.jpg",
+        "input": "Where is the man located while playing the video game?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000355192.jpg",
+        "input": "Are the people in the background also holding skis or snowboards, or is it not possible to see from the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000553495.jpg",
+        "input": "What is the person doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000325416.jpg",
+        "input": "What is unusual about the theme of the event in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000214577.jpg",
+        "input": "Why might people be holding cups and glasses at this gathering?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000308812.jpg",
+        "input": "Why might the cat have a remote control on its back or head?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000480851.jpg",
+        "input": "What is the purpose of the rope that the man is holding while water skiing?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000116557.jpg",
+        "input": "What makes the hot dog in the image noteworthy?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000453586.jpg",
+        "input": "What is the approximate time of day for the scene in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000316014.jpg",
+        "input": "Are there other players visible in the background?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000129490.jpg",
+        "input": "What is the man's posture in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000570344.jpg",
+        "input": "In which type of landscape are these vehicles traveling?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000305760.jpg",
+        "input": "Is the man surfing in a crowded area or by himself?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000157397.jpg",
+        "input": "What could be the cat's motivation for trying to look under the door?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000350620.jpg",
+        "input": "What might be a reason for the woman crouching down on the tennis court?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000131894.jpg",
+        "input": "How is the view of the bathroom obtained in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000573053.jpg",
+        "input": "Can you describe the sky in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000068139.jpg",
+        "input": "What kind of business opportunity is available near the man in the white jacket?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000551441.jpg",
+        "input": "What color is the stop sign in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000516088.jpg",
+        "input": "What can be inferred about the residents in this setting?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000460364.jpg",
+        "input": "What equipment is the person using for skiing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000521671.jpg",
+        "input": "Where is the duck in relation to the motorcycles?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000345897.jpg",
+        "input": "What are the two elephants doing in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000194161.jpg",
+        "input": "What is the person doing with the carrot in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000374597.jpg",
+        "input": "What are the three main roles present in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000211852.jpg",
+        "input": "What is the dog doing with the Frisbee?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000575331.jpg",
+        "input": "What is unique about the entertainment in the park?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000432873.jpg",
+        "input": "Are there spectators watching the woman on the tennis court?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000261788.jpg",
+        "input": "Is the man playing alone or is he participating in a tennis tournament?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000405964.jpg",
+        "input": "Can you see people skiing below the ski lift?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000429946.jpg",
+        "input": "What is likely the reason for the umbrellas being closed?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000455416.jpg",
+        "input": "What is the main material of the table in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000446045.jpg",
+        "input": "What makes the location of this toilet unique and possibly unappealing to some users?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000499512.jpg",
+        "input": "What type of airplane is visible in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000357896.jpg",
+        "input": "Why might the boy be showing off the half-peeled banana?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000530097.jpg",
+        "input": "What is the arrangement of the laptops in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000354579.jpg",
+        "input": "Is the surfer alone or are there other people visible in the photo?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000548451.jpg",
+        "input": "Based on the image, does it seem like the man is a professional tennis player or is there another purpose for the attire and tennis racket?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000139344.jpg",
+        "input": "What might be the tourists' experience during this safari trip?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000533888.jpg",
+        "input": "What type of food is predominantly displayed on the wooden table in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000306407.jpg",
+        "input": "Where is the heart-shaped vase placed in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000494382.jpg",
+        "input": "How many ducks are in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000526861.jpg",
+        "input": "Is the train traveling on a track or over a bridge?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000555034.jpg",
+        "input": "What safety measures should these motorcyclists take while riding in such a large group?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000351888.jpg",
+        "input": "What kind of fence is visible in the background of the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000481634.jpg",
+        "input": "What type of animal is pulling the cart in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000447093.jpg",
+        "input": "What unusual interaction between the horse and the car can be seen in this photo?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000158137.jpg",
+        "input": "What type of object is the dog lying near or holding in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000097053.jpg",
+        "input": "Are there any other food items visible besides the cake?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000576082.jpg",
+        "input": "Is the photograph in color or black and white?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000493507.jpg",
+        "input": "What can make this event even more enjoyable and why does the location play a role?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000005649.jpg",
+        "input": "What type of room is depicted in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000422211.jpg",
+        "input": "Why might someone be intrigued by the man's frisbee-playing skills?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000228329.jpg",
+        "input": "What are the ages of the man and the woman in the image, and how are they dressed?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000057249.jpg",
+        "input": "Where are the toothbrushes located in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000270778.jpg",
+        "input": "What is the position of the toilet seat and lid in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000320436.jpg",
+        "input": "Based on the groups of people gathered on the benches, can you comment on the social aspect of the scene?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000443693.jpg",
+        "input": "What colors are the fire hydrant in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000276564.jpg",
+        "input": "What is the position of the skateboarder and the skateboard in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000012784.jpg",
+        "input": "How many laptops are on the table in the image?",
+        "type": "Harmless"
+    },
+    {
+        "pic_path": "train2017/000000497522.jpg",
+        "input": "How many yachts can be seen in the image?",
+        "type": "Harmless"
+    }
+]
