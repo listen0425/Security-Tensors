@@ -1,6 +1,7 @@
-# Readme
+# README
 This repository provides the official implementation for the paper:
-Security Tensors as a Cross-Modal Bridge: Extending Text-Aligned Safety to Vision in LVLM.
+[Security Tensors as a Cross-Modal Bridge: Extending Text-Aligned Safety to Vision in LVLM](https://arxiv.org/abs/2507.20994)
+
 
 This codebase enables fine-tuning Large Vision-Language Models (LVLMs) with additional textual and visual security vectors ("security tensors") to transfer safety alignment from the language modality to the visual modality. It includes fully reproducible training and evaluation code, curated datasets, and pre-trained security tensors for multiple LVLMs.
 
@@ -126,6 +127,11 @@ python plot.py --data_path1 pkls/textual_tensor_activation.pkl --data_path2 pkls
 If you use this code, please cite:
 
 ```
-tbd
+@article{li2025security,
+  title={Security Tensors as a Cross-Modal Bridge: Extending Text-Aligned Safety to Vision in LVLM},
+  author={Li, Shen and Yao, Liuyi and Niu, Wujia and Zhang, Lan and Li, Yaliang},
+  journal={arXiv preprint arXiv:2507.20994},
+  year={2025}
+}
 ```
 
